@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import io.choerodon.resource.annoation.EnableChoerodonResourceServer;
 
-@EnableChoerodonResourceServer
+//@EnableChoerodonResourceServer
 @EnableDiscoveryClient
 @SpringBootApplication
 public class HseckillApplication {
